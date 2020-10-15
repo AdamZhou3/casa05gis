@@ -4,7 +4,10 @@
 *.pptx
 *.pdf
 *.gpkg
-*.Rroj
+*.Rproj
 *.Rhistory
 *.RData
+*.qgz
+
 SrcDta/
+.Rproj.user/*
