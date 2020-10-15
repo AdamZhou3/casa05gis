@@ -1,0 +1,10 @@
+*.csv
+*.xls
+*.zip
+*.pptx
+*.pdf
+*.gpkg
+*.Rroj
+*.Rhistory
+*.RData
+SrcDta/
